@@ -66,7 +66,8 @@ https://github.com/Durgesh4444/DSA-web-dev-assignment/blob/main/ASS1/Q4/index.ht
 
 
 ## 💡 Q.10 Table using HTML only
+![output](https://github.com/vaibhavwxyz/Placement-Program-Assignment/assets/73052214/ced86dc8-c453-40ed-912a-7ac2ca9542ef)
 
 ### 🚀 Answer
+https://github.com/Durgesh4444/DSA-web-dev-assignment/blob/main/ASS1/Q10/index.html
 
-![output](https://github.com/vaibhavwxyz/Placement-Program-Assignment/assets/73052214/ced86dc8-c453-40ed-912a-7ac2ca9542ef)
