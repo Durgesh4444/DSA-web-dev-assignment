@@ -17,10 +17,8 @@
 > HTML tags and elements are related but have distinct meanings. HTML tags are used to mark up the structure and define the behavior of elements within an HTML document. They are enclosed in angle brackets, such as `<tagname>`. HTML elements, on the other hand, consist of the opening tag, content, and closing tag, such as `<tagname>content</tagname>`. Tags define the element's type, while elements represent the actual content or structure within the tags.
 
 ## 💡 Q.4 Build Your Resume using HTML only
-
-### 🚀 Answer
-
 ![output](https://github.com/vaibhavwxyz/Placement-Program-Assignment/assets/73052214/ced86dc8-c453-40ed-912a-7ac2ca9542ef)
+### 🚀 Answer
 https://github.com/Durgesh4444/DSA-web-dev-assignment/blob/main/ASS1/Q4/index.html
 
 ## 💡 Q.5 Write HTML code so that it looks like the below image
